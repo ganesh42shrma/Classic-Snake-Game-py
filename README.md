@@ -14,7 +14,7 @@ This Python project is a classic Snake Game implemented using Turtle graphics. T
   Clone the repository to your local machine.
   
   Run the snake_game.py script using a Python interpreter.
-  [Repository Name](https://github.com/ganesh42shrma/Classic-Snake-Game-py.git)
+  [My Awesome Snake Game](https://github.com/ganesh42shrma/Classic-Snake-Game-py.git)
   
   Use arrow keys (Up 🔼, Down 🔽, Left ◀️, Right ▶️) to control the snake's direction.
   
